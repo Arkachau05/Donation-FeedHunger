@@ -21,7 +21,7 @@ To volunteer or donate, please visit [FeedHunger] or contact us directly at [Don
 
 Thank you for your unwavering support and commitment to building a stronger, more compassionate community.
       </p>
-      <img className='imghero' src="/public/photo3 (2).png" alt="picture"/>
+      <img className='imghero' src="/photo3 (2).png" alt="picture"/>
       </div>
       <br/><br/>
       <button class="button-55" role="button">

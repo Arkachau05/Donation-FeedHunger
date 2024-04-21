@@ -29,9 +29,9 @@ Together, we can make a difference and build a world where no one goes hungry.</
 </div>
 <div>
  <div className='photoabout'>
- <img className='border' src="/public/photo3 (3).png" alt="photo" width={275}/>
- <img className='border' src="/public/photo3 (2).png" alt="photo" width={275}/>
- <img  className='border' src="/public/photo3 (4).png" alt="photo" width={275}/>
+ <img className='border' src="/photo3 (3).png" alt="photo" width={275}/>
+ <img className='border' src="/photo3 (2).png" alt="photo" width={275}/>
+ <img  className='border' src="/photo3 (4).png" alt="photo" width={275}/>
   </div>
 
  </div>

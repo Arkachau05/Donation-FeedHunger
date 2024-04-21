@@ -4,32 +4,32 @@ const Members = () => {
   const members = [
     {
       id: 1,
-      image: "/public/pc (1).jpg",
+      image: "/pc (1).jpg",
       title: "Alex",
     },
     {
       id: 2,
-      image: "/public/pc (2).jpg",
+      image: "/pc (2).jpg",
       title: "Jhon",
     },
     {
       id: 3,
-      image: "/public/pc (3).jpg",
+      image: "/pc (3).jpg",
       title: "Michael",
     },
     {
       id: 4,
-      image: "/public/pc (4).jpg",
+      image: "/pc (4).jpg",
       title: "Rober",
     },
     {
       id: 5,
-      image: "/public/pc (5).jpg",
+      image: "/pc (5).jpg",
       title: "Siri",
     },
     {
       id: 6,
-      image: "/public/pc (6).jpg",
+      image: "/pc (6).jpg",
       title: "Tobey",
     },
   ];
