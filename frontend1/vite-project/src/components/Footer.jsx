@@ -12,7 +12,7 @@ const Footer = () => {
   return (
     <footer>
     <div>
-      <img src="/logo1.png" alt="logo" />
+      <img src="/Logo1.png" alt="logo" />
     </div>
     <div>
     <h4>🙏Support</h4>
